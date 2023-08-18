@@ -16,7 +16,7 @@ public class IntroDeckOG : MonoBehaviour
     public class OGIntroDeck {
         public string name = "Intro Deck";
         public List<string> deckList = new List<string>(){
-            "Alolan Geodude"
+            "Bellsprout", "Bulbasaur", "Cubone", "Drowzee", "Eevee", "Ghastly", "Koffing", "Krabby", "Magikarp", "Magnemite", "Pikachu", "Seel", "Voltorb"
         };
     }
 }

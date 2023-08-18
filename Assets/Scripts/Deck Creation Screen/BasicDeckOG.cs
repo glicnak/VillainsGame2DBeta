@@ -14,9 +14,9 @@ public class BasicDeckOG : MonoBehaviour
     }
 
     public class OGBasicDeck {
-        public string name = "Intro Deck";
+        public string name = "Basic Deck";
         public List<string> deckList = new List<string>(){
-            "Eevee"
+            "Alolan Geodude", "Ice Sandshrew", "Ice Vulpix", "Cubone", "Exeggcute", "Goldeen", "Horsea", "Paras", "Ponyta", "Psyduck", "Spearow", "Venonat", "Vulpix" 
         };
     }
 }
